@@ -2,6 +2,10 @@
 
 In 2020, Oil futures went into the negative, and hundreds of millions were lost. Crisis scenarios challenge existing models, and thats why I've experimented in building Heavy Weather, a reinforcement learning system for dynamic portfolio allocation across traditional, futures, and high-volatility asset classes. This project implements a Proximal Policy Optimization (PPO) agent that adapts to different market regimes and is benchmarked against traditional portfolio strategies.
 
+## 📄 Research Paper
+
+[📘 Heavy Weather: PPO–Based Reinforcement Learning for Adaptive Portfolio Management](./HeavyWeather.pdf)
+
 ## 🎯 Features
 
 - **Advanced RL Agent**: PPO-based portfolio allocation agent with adaptive learning
