@@ -4,7 +4,7 @@ In 2020, Oil futures went into the negative, and hundreds of millions were lost.
 
 ## 📄 Research Paper
 
-[📘 Heavy Weather: PPO–Based Reinforcement Learning for Adaptive Portfolio Management](./HeavyWeather.pdf)
+[📘 Heavy Weather: PPO–Based Reinforcement Learning for Adaptive Portfolio Management](./Heavy_Weather__PPO_Based_RL_for_Multi_Asset_Trading.pdf)
 
 ## 🎯 Features
 
